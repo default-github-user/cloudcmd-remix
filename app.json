@@ -165,12 +165,6 @@
   },
 	"buildpacks": [
 		{
-			"url": "heroku/nodejs"
-		},
-		{
-			"url": "heroku/python"
-		},
-		{
 			"url": "https://elements.heroku.com/buildpacks/barsoom/heroku-buildpack-shell-tools"
 		},
 		{
